@@ -1,0 +1,15 @@
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/bin/Debug/net8.0/helloworld
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/bin/Debug/net8.0/helloworld.dll
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/bin/Debug/net8.0/helloworld.pdb
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/helloworld.sourcelink.json
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/helloworld.dll
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/helloworld.pdb
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/home/nicky/Documents/GitHub/Csharp-basics/helloworld2/helloworld/obj/Debug/net8.0/ref/helloworld.dll

@@ -1,0 +1,5 @@
+/home/nicky/Documents/GitHub/Csharp-basics/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicky/Documents/GitHub/Csharp-basics/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/home/nicky/Documents/GitHub/Csharp-basics/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/home/nicky/Documents/GitHub/Csharp-basics/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/home/nicky/Documents/GitHub/Csharp-basics/hello/obj/Debug/net8.0/hello.sourcelink.json
